@@ -14,7 +14,7 @@ Integrantes - (Usuarios Github:):
     <i>201910300</i>
 
 3.- <b>Cristhian Pantoja Jara </b><br>
-    <i>cristhian_pantoja1</i>
+    <i>201910252</i>
 
 Instrucciones:
 --
